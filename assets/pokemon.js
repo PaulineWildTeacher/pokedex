@@ -1,0 +1,86 @@
+export const pokemons = [
+  {
+    name: "Bulbizarre",
+    number: 1,
+    types: ["Plante", "Poison"],
+    img: "./assets/images/001.png",
+  },
+  {
+    name: "Herbizarre",
+    number: 2,
+    types: ["Plante", "Poison"],
+    img: "./assets/images/002.png",
+  },
+  {
+    name: "Florizarre",
+    number: 3,
+    types: ["Plante", "Poison"],
+    img: "./assets/images/003.png",
+  },
+  {
+    name: "Salamèche",
+    number: 4,
+    types: ["Feu"],
+    img: "./assets/images/004.png",
+  },
+  {
+    name: "Reptincel",
+    number: 5,
+    types: ["Feu"],
+    img: "./assets/images/005.png",
+  },
+  {
+    name: "Dracaufeu",
+    number: "6",
+    types: ["Feu", "Vol"],
+    img: "./assets/images/006.png",
+  },
+  {
+    name: "Carapuce",
+    number: 7,
+    types: ["Eau"],
+    img: "./assets/images/007.png",
+  },
+  {
+    name: "Carabaffe",
+    number: 8,
+    types: ["Eau"],
+    img: "./assets/images/008.png",
+  },
+  {
+    name: "Tortank",
+    number: 9,
+    types: ["Eau"],
+    img: "./assets/images/009.png",
+  },
+  {
+    name: "Chenipan",
+    number: 10,
+    types: ["Insecte"],
+    img: "./assets/images/010.png",
+  },
+  {
+    name: "Chrysacier",
+    number: 11,
+    types: ["Insecte"],
+    img: "./assets/images/011.png",
+  },
+  {
+    name: "Papilusion",
+    number: 12,
+    types: ["Insecte", "Vol"],
+    img: "./assets/images/012.png",
+  },
+  {
+    name: "Pikachu",
+    number: 25,
+    types: ["Electrik"],
+    img: "./assets/images/025.png",
+  },
+  {
+    name: "Raichu",
+    number: 26,
+    types: ["Electrik"],
+    img: "./assets/images/026.png",
+  },
+];
